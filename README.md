@@ -3,6 +3,7 @@
 </p>
 
 # Hi 👋 My name is Beth,
+I’m a Front-End Developer who enjoys turning ideas into clean, responsive web applications using React and TypeScript. I’m currently building projects that integrate real-time data, authentication, and dynamic user experiences.
 
 ### Frontend Developer
 
