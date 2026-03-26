@@ -9,7 +9,7 @@ I’m a Front-End Developer who enjoys turning ideas into clean, responsive web 
 
 * 🌎 I'm based in Nevada
 * 📫 You can contact me at **[bethkenward3@gmail.com](mailto:bethkenward3@gmail.com)**
-
+* 🔗 See my portfolio: https://beth-personal-portfolio.vercel.app
 ---
 
 ### Skills
